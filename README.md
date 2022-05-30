@@ -1,4 +1,4 @@
-# interview-preparation
+# Programming Problems and its Solutions
 
 License: MIT
 
